@@ -6,7 +6,7 @@
 
 📝 版本：2025年4月更新版  
 📩 联系邮箱：zhuwei9803@gmail.com  
-🔗 下载链接：[点击查看或下载 PDF](https://github.com/Jvvv9803/Germany-CSCer-Handbook/raw/main/0.%20%E5%BE%85%E4%BF%AE_4%E6%9C%8823%E6%97%A5_%E5%BE%B7%E5%9B%BDCSCer%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
+🔗 下载链接：[点击查看或下载 PDF](https://github.com/Jvvv9803/Germany-CSCer-Handbook/blob/main/0.%20%E5%BE%85%E4%BF%AE_4%E6%9C%8824%E6%97%A5_%E5%BE%B7%E5%9B%BDCSCer%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
 
 ---
 
