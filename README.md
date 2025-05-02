@@ -66,4 +66,4 @@
 
 ## 🧑‍💻 编写组名单
 
-Jvvv, Flora, Felix, White, 范子笑, Chenqin Le, WXY, LYF, 飞天芝士派派, Sifei Luo, 做一只有理想的猫, 布兮, Balance
+Jvvv, Flora, Felix, White, 范子笑, Chenqin Le, WXY, LYF, 飞天芝士派派, Sifei Luo, 做一只有理想的猫, 布兮, Balance, Waterji
