@@ -3,9 +3,9 @@
 
 📘 本手册由国家留学基金委（CSC）资助赴德国攻读博士和联合培养的博士学生自发编写，内容涵盖签证、德语培训、出行前准备、抵达德国后注意事项、以及德国生活等关键环节，希望帮助德国CSCer博士新生快速融入德国生活。
 
-📝 版本：2025年5月7日  
+📝 版本：2025年6月26日  
 📩 联系邮箱：zhuwei9803@gmail.com  
-🔗 下载链接：[点击查看或下载 PDF](https://github.com/Jvvv9803/Germany-CSCer-Handbook/raw/main/《德国CSCer生存手册》%202025.05.07.pdf)
+🔗 下载链接：[点击查看或下载 PDF](https://github.com/Jvvv9803/Germany-CSCer-Handbook/blob/main/%E3%80%8A%E5%BE%B7%E5%9B%BDCSCer%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C%E3%80%8B%202025.06.26.pdf)
 
 ---
 
